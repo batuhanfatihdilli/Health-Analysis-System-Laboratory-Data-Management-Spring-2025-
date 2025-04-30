@@ -28,7 +28,7 @@
 
 ## Used Technologies
 
-PostgreSQL, SQL, ER Diagram, Data Management.
+- PostgreSQL, SQL, ER Diagram, Data Management.
 
 
 
