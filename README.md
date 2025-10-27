@@ -18,7 +18,7 @@
 
 ## Preview
 
-- Here is a little part of the graph.
+- Here is a little picture of the graph.
 
 
 <div align="center" style="display: grid; grid-template-columns: 1fr; gap: 10px; max-width: 420px; margin: auto;">
